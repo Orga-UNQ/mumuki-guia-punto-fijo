@@ -51,5 +51,4 @@ La notacion de un sistema en punto fijo sin signo es: **BSS(n,m)**, donde n es l
 
 #### A trabajar
 
-
-> interprete la cadena: 11100 en SM(3,2)
+> Interprete la cadena: 11100 en SM(5,2)
