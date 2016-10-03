@@ -1,5 +1,5 @@
 ---
-name: Punto Fijo
+name: Punto Fijo (en construcción)
 locale: es
 type: learning
 beta: false
@@ -8,3 +8,4 @@ language: text
 id_format: '%05d'
 order:
 - 1
+- 2
