@@ -1,0 +1,1 @@
+¿Cuál es el error absoluto que se obtiene al representar el valor 0,7 en BSS(4,2)?
